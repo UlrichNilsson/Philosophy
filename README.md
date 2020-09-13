@@ -9,6 +9,7 @@ Information on Philosophy
 [David Hume](https://sv.wikipedia.org/wiki/David_Hume)  
 [Hilary Putnam](https://sv.wikipedia.org/wiki/Hilary_Putnam)  
 [René Descarte](https://en.wikipedia.org/wiki/René_Descartes)  
+[David Lewis](https://en.wikipedia.org/wiki/David_Lewis_(philosopher))
 
 ## Introduction to philosophy
 
