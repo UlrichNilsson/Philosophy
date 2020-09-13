@@ -5,6 +5,7 @@ Information on Philosophy
 ## Philosophers
 
 [Plato](https://en.wikipedia.org/wiki/Plato)  
+[Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant)  
 [David Hume](https://sv.wikipedia.org/wiki/David_Hume)  
 [Hilary Putnam](https://sv.wikipedia.org/wiki/Hilary_Putnam)  
 [René Descarte](https://en.wikipedia.org/wiki/René_Descartes)  
