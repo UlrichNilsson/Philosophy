@@ -4,6 +4,7 @@ Information on Philosophy
 
 ## Philosophers
 
+[Plato](https://en.wikipedia.org/wiki/Plato)  
 [David Hume](https://sv.wikipedia.org/wiki/David_Hume)  
 [Hilary Putnam](https://sv.wikipedia.org/wiki/Hilary_Putnam)  
 
