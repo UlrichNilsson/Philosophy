@@ -7,6 +7,7 @@ Information on Philosophy
 [Plato](https://en.wikipedia.org/wiki/Plato)  
 [David Hume](https://sv.wikipedia.org/wiki/David_Hume)  
 [Hilary Putnam](https://sv.wikipedia.org/wiki/Hilary_Putnam)  
+[René Descarte](https://en.wikipedia.org/wiki/René_Descartes)  
 
 ## References
 
