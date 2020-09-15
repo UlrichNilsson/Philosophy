@@ -15,6 +15,10 @@ Information on Philosophy
 
 ### Subjects
 
+* What is philosophy?
+* Status of morality
+* Mind, brains and computers
+* Do we have an obligation to obey the law?
 * Do we have a free will? Does it matter?
 * Time travel and philosophy
 
