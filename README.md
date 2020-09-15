@@ -27,6 +27,6 @@ Information on Philosophy
 <https://www.coursera.org/learn/philosophy/home/welcome>  
 [Philosophy for everyone](https://www.routledge.com/Philosophy-for-Everyone-2nd-Edition/Chrisman-Pritchard-Fletcher-Mason-Lavelle-Massimi-Richmond-Ward/p/book/9781138672949?gclid=Cj0KCQjwhvf6BRCkARIsAGl1GGguVSqxXRAUwrVzTMM4l_JIq9ddWC0TFF3BR3XcoEnknJWvHt0MSPQaAqzIEALw_wcB)
 
-## References
+## Other References
 
 <https://plato.stanford.edu/index.html>  
